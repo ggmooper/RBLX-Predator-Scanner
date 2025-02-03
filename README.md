@@ -12,7 +12,7 @@ scans roblox accounts from account ids and goes through all of them
 the script will scan thru a list of roblox ids. that YOU can configure. it will scan thru descriptions and usernames of the roblox accounts specified and if it picks up anything innapropriate, it will put them in the suspicious_users.json file.
 
 
-# made by ggmooper
-# contact me thru discord: mooper__
+**made by ggmooper**
+**contact me thru discord: mooper__**
 
-# enjoy the script!
+**enjoy the script!**
