@@ -13,6 +13,7 @@ the script will scan thru a list of roblox ids. that YOU can configure. it will 
 
 
 **made by ggmooper**
+
 **contact me thru discord: mooper__**
 
 **enjoy the script!**
