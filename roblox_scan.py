@@ -3,7 +3,7 @@ import json
 import time
 
 # List of words to scan for in user profiles
-bad_words = ["predator", "adult", "grooming", "inappropriate", "danger", "meet me", "private", "cum", "sl0t", "fun", "rp", "studio rp", "geooan", "goon", "g00n", "go0n", "g0on", "age", "13", "13yr", "furry", "fur", "inch", "tip", "slave", "master", "slut", "mommy", "mummy", "mum", "dad", "daddy"]
+bad_words = ["predator", "adult", "grooming", "inappropriate", "danger", "meet me", "private", "cum", "sl0t", "fun", "rp", "studio rp", "geooan", "goon", "g00n", "go0n", "g0on", "age", "13", "13yr", "furry", "fur", "inch", "tip", "slave", "master", "slut", "mommy", "mummy", "mum", "dad", "daddy", "1yr", "2yr", "3yr", "4yr", "5yr", "bull", "15yr", "yr"]
 
 # Function to fetch user info from Roblox API
 def get_user_info(user_id):
